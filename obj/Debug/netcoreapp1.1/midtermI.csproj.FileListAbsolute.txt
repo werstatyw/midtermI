@@ -1,0 +1,8 @@
+/home/wers4/midtermI/bin/Debug/netcoreapp1.1/midtermI.deps.json
+/home/wers4/midtermI/bin/Debug/netcoreapp1.1/midtermI.runtimeconfig.json
+/home/wers4/midtermI/bin/Debug/netcoreapp1.1/midtermI.runtimeconfig.dev.json
+/home/wers4/midtermI/bin/Debug/netcoreapp1.1/midtermI.dll
+/home/wers4/midtermI/bin/Debug/netcoreapp1.1/midtermI.pdb
+/home/wers4/midtermI/obj/Debug/netcoreapp1.1/midtermI.AssemblyInfo.cs
+/home/wers4/midtermI/obj/Debug/netcoreapp1.1/midtermI.dll
+/home/wers4/midtermI/obj/Debug/netcoreapp1.1/midtermI.pdb

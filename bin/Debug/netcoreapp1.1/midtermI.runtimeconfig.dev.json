@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/wers4/.nuget/packages"
+    ]
+  }
+}
